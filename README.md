@@ -1,1 +1,3 @@
-# 10-design-patterns-typescript
+# 10-design-patterns-typescript 
+
+- singleton
