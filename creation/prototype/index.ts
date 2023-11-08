@@ -1,7 +1,5 @@
 /*
-Prototype
-
-Prototype allows objects to be clones of other objects, rather then extended via inheritance.
+Prototype - Prototype allows objects to be clones of other objects, rather then extended via inheritance.
 */
 
 const wizard = {

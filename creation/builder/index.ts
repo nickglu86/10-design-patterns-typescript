@@ -1,9 +1,6 @@
 /*
-Builder
-
-The builder pattern is a creational design pattern that lets you construct complex objects step by step. It JavaScript, we can achieve this with method chaining.
+Builder - The builder pattern is a creational design pattern that lets you construct complex objects step by step. It JavaScript, we can achieve this with method chaining.
 */
-
 
 class HotDog {
     constructor(
