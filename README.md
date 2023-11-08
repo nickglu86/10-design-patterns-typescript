@@ -16,3 +16,7 @@ Structural patterns are primarily used to handle relationships between objects.
 
 ## Behavioral ##
 Behavioral patterns are used to identify communication between objects.
+- Iterator
+- Mediator
+- Observer
+- State
